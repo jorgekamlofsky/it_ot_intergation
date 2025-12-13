@@ -1,0 +1,4 @@
+En esta carpeta:
+- TFC Bottinelli, (2021): Integracion ERP-SCADA
+- TFC F. Romero, (2021): Integracion IT-OT
+- Presentacion UFASTA Kamlofsky, (2022): Integracion IT-OT
